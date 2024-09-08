@@ -35,4 +35,5 @@
 </p>
 
 
-![snake gif](https://github.com/saygix/saygix/blob/output/github-contribution-grid-snake.gif)
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saygix/saygix/output/github-contribution-grid-snake.svg">
+</picture>

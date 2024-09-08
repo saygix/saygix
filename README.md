@@ -16,6 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/ayşegül saygı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayşegül saygı" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ayşegül saygı](https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-sayg%C4%B1-65bb46286/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayşegül saygı" height="30" width="40" /></a>
 </p>
 </p>
